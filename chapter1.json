@@ -1,0 +1,721 @@
+{
+  "sections": [
+    {
+      "section": 1.1,
+      "clause": [
+        {
+          "clause_number": 2,
+          "clause_traditional": "\u8a71\u8aaa\u5929\u4e0b\u5927\u52e2\uff0c\u5206\u4e45\u5fc5\u5408\uff0c\u5408\u4e45\u5fc5\u5206\uff1a",
+          "clause_simplified": "\u8bdd\u8bf4\u5929\u4e0b\u5927\u52bf\uff0c\u5206\u4e45\u5fc5\u5408\uff0c\u5408\u4e45\u5fc5\u5206:",
+          "clause_translation": "Under heaven, it is said that generally, what is long divided, must unite; what is long united, must divide.",
+          "words": [
+            {
+              "traditional": "\u8a71\u8aaa",
+              "simplified": "\u8bdd\u8bf4",
+              "pinyin": "Hu\u00e0shu\u014d",
+              "translation": "It is said",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5929\u4e0b",
+              "simplified": "\u5929\u4e0b",
+              "pinyin": "Ti\u0101nxi\u00e0",
+              "translation": "under heaven",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5927\u52e2",
+              "simplified": "\u5927\u52bf",
+              "pinyin": "d\u00e0sh\u00ec",
+              "translation": "general trend of events",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\uff0c",
+              "simplified": "\uff0c",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5206",
+              "simplified": "\u5206",
+              "pinyin": "F\u0113n",
+              "translation": "split",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u4e45",
+              "simplified": "\u4e45",
+              "pinyin": "ji\u01d4",
+              "translation": "for long",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5fc5",
+              "simplified": "\u5fc5",
+              "pinyin": "b\u00ec",
+              "translation": "must",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5408",
+              "simplified": "\u5408",
+              "pinyin": "h\u00e9",
+              "translation": "unite",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5408",
+              "simplified": "\u5408",
+              "pinyin": "h\u00e9",
+              "translation": "unite",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u4e45",
+              "simplified": "\u4e45",
+              "pinyin": "ji\u01d4",
+              "translation": "for long",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5fc5",
+              "simplified": "\u5fc5",
+              "pinyin": "b\u00ec",
+              "translation": "must",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5206",
+              "simplified": "\u5206",
+              "pinyin": "f\u0113n",
+              "translation": "split",
+              "annotation": NaN,
+              "character": NaN
+            }
+          ]
+        },
+        {
+          "clause_number": 3,
+          "clause_traditional": "\u5468\u672b\u4e03\u570b\u5206\u722d\uff0c\u5e76\u5165\u65bc\u79e6\u3002",
+          "clause_simplified": "\u5468\u672b\u4e03\u56fd\u5206\u4e89\uff0c\u5e76\u5165\u4e8e\u79e6\u3002",
+          "clause_translation": "Seven warring nations ended with the beginning of the Qin Dynasty.",
+          "words": [
+            {
+              "traditional": "\u5468\u672b",
+              "simplified": "\u5468\u672b",
+              "pinyin": "Zh\u014dum\u00f2",
+              "translation": "weekend",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u4e03\u56fd",
+              "simplified": "\u4e03\u570b",
+              "pinyin": "q\u012b gu\u00f3",
+              "translation": "Seven Kingdoms",
+              "annotation": "Seven Kingdoms during the Warring States period (475 to 221 BCE).",
+              "character": NaN
+            },
+            {
+              "traditional": "\u5206\u4e89",
+              "simplified": "\u5206\u722d",
+              "pinyin": "f\u0113n zh\u0113ng",
+              "translation": "contention / fight",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": ",",
+              "simplified": ",",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5e76\u5165\u4e8e",
+              "simplified": "\u5e76\u5165\u65bc",
+              "pinyin": "b\u00ecng r\u00f9 y\u00fa",
+              "translation": "merged into",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u79e6",
+              "simplified": "\u79e6",
+              "pinyin": "q\u00edn.",
+              "translation": "Qin (Dynasty)",
+              "annotation": "Firrst\u00a0dynasty\u00a0of\u00a0Imperial China\u00a0(221 to 206 BC).\u00a0",
+              "character": NaN
+            },
+            {
+              "traditional": "\u3002",
+              "simplified": "\u3002",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            }
+          ]
+        },
+        {
+          "clause_number": 4,
+          "clause_traditional": "\u53ca\u79e6\u706d\u4e4b\u540e\uff0c\u695a\u6c49\u5206\u4e89\uff0c\u53c8\u5e76\u5165\u4e8e\u6c49\u3002",
+          "clause_simplified": "\n\u53ca\u79e6\u706d\u4e4b\u540e\uff0c\u695a\u6c49\u5206\u4e89\uff0c\u53c8\u5e76\u5165\u4e8e\u6c49\u3002",
+          "clause_translation": "After Qin was extinguished, Chu contended with Han, leading to the Han Dynasty.",
+          "words": [
+            {
+              "traditional": "\u53ca",
+              "simplified": "\u53ca",
+              "pinyin": "J\u00ed",
+              "translation": "and",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u79e6",
+              "simplified": "\u79e6",
+              "pinyin": "mi\u00e8",
+              "translation": "Qin",
+              "annotation": "Firrst\u00a0dynasty\u00a0of\u00a0Imperial China\u00a0(221 to 206 BC).\u00a0",
+              "character": NaN
+            },
+            {
+              "traditional": "\u6ec5",
+              "simplified": "\u706d",
+              "pinyin": "q\u00edn",
+              "translation": "extinguish",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u4e4b\u5f8c",
+              "simplified": "\u4e4b\u540e",
+              "pinyin": "zh\u012bh\u00f2u",
+              "translation": "afterwards",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\uff0c",
+              "simplified": "\uff0c",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u695a\u6f22",
+              "simplified": "\u695a\u6c49",
+              "pinyin": "ch\u01d4 h\u00e0n",
+              "translation": "Chu-Han",
+              "annotation": "Chu\u2013Han Contention was an interregnum period between the Qin and Han dynasties (206\u2013202 BC).",
+              "character": NaN
+            },
+            {
+              "traditional": "\u5206\u722d",
+              "simplified": "\u5206\u4e89",
+              "pinyin": "f\u0113n zh\u0113ng",
+              "translation": "Contention",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\uff0c",
+              "simplified": "\uff0c",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u53c8",
+              "simplified": "\u53c8",
+              "pinyin": "y\u00f2u",
+              "translation": "again",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u4f75\u5165\u65bc",
+              "simplified": "\u5e76\u5165\u4e8e",
+              "pinyin": "b\u00ecng r\u00f9 y\u00fa",
+              "translation": "merged into",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u6f22",
+              "simplified": "\u6c49",
+              "pinyin": "h\u00e0n",
+              "translation": "Han (Dynasty)",
+              "annotation": "Han dynasty was the second imperial dynasty of China (202 BC \u2013 220 AD).",
+              "character": NaN
+            },
+            {
+              "traditional": "\u3002",
+              "simplified": "\u3002",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            }
+          ]
+        },
+        {
+          "clause_number": 5,
+          "clause_traditional": "\u6f22\u671d\u81ea\u9ad8\u7956\u65ac\u767d\u86c7\u800c\u8d77\u7fa9\uff0c\u4e00\u7d71\u5929\u4e0b\u3002",
+          "clause_simplified": "\u6c49\u671d\u81ea\u9ad8\u7956\u65a9\u767d\u86c7\u800c\u8d77\u4e49\uff0c\u4e00\u7edf\u5929\u4e0b\u3002",
+          "clause_translation": "Han bloodline's ancestor killed a white serpent, leading to Han Dynasty's ascension, uniting the world.",
+          "words": [
+            {
+              "traditional": "\u6f22\u671d",
+              "simplified": "\u6c49\u671d",
+              "pinyin": "H\u00e0n ch\u00e1o",
+              "translation": "Han Dynasty",
+              "annotation": "Han dynasty was the second imperial dynasty of China (202 BC \u2013 220 AD).",
+              "character": NaN
+            },
+            {
+              "traditional": "\u81ea",
+              "simplified": "\u81ea",
+              "pinyin": "z\u00ec",
+              "translation": "since",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u9ad8\u7956",
+              "simplified": "\u9ad8\u7956",
+              "pinyin": "g\u0101oz\u01d4",
+              "translation": "Gaozu",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u65ac",
+              "simplified": "\u65a9",
+              "pinyin": "zh\u01cen",
+              "translation": "cut",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u767d\u86c7",
+              "simplified": "\u767d\u86c7",
+              "pinyin": "b\u00e1ish\u00e9",
+              "translation": "White Serpent",
+              "annotation": "Uprising of the Slaying of the White Serpent \u65ac\u767d\u86c7\u8d77\u7fa9 was a prophesy of Liu Bangs's ascension to rulership.",
+              "character": NaN
+            },
+            {
+              "traditional": "\u800c",
+              "simplified": "\u800c",
+              "pinyin": "\u00e9r",
+              "translation": "and",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u8d77\u7fa9",
+              "simplified": "\u8d77\u4e49",
+              "pinyin": "q\u01d0y\u00ec",
+              "translation": "uprising / ascension",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\uff0c",
+              "simplified": "\uff0c",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u4e00\u7d71",
+              "simplified": "\u4e00\u7edf",
+              "pinyin": "y\u012bt\u01d2ng",
+              "translation": "unify",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5929\u4e0b",
+              "simplified": "\u5929\u4e0b",
+              "pinyin": "ti\u0101nxi\u00e0",
+              "translation": "world",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u3002",
+              "simplified": "\u3002",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            }
+          ]
+        },
+        {
+          "clause_number": 6,
+          "clause_traditional": "\u5f8c\u4f86\u5149\u6b66\u4e2d\u8208\uff0c\u50b3\u81f3\u737b\u5e1d\uff0c\u9042\u5206\u70ba\u4e09\u570b\u3002",
+          "clause_simplified": "\u6853\u5e1d\u7981\u9522\u5584\u7c7b\uff0c\u5d07\u4fe1\u5ba6\u5b98\u3002",
+          "clause_translation": "After emperor Guangwu's restoration of Han after the interregnum, the throne was passed down to Xiandi before splitting into three kingdoms",
+          "words": [
+            {
+              "traditional": "\u5f8c\u4f86",
+              "simplified": "\u540e\u6765",
+              "pinyin": "\u540e\u6765",
+              "translation": "later",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5149\u6b66\u4e2d\u8208",
+              "simplified": "\u5149\u6b66\u4e2d\u5174",
+              "pinyin": "\u5149\u6b66\u4e2d\u5174",
+              "translation": "Guangwu Restoration",
+              "annotation": "A prosperous period of Eastern Han, after the interregnum.",
+              "character": NaN
+            },
+            {
+              "traditional": "\u50b3\u81f3",
+              "simplified": "\u4f20\u81f3",
+              "pinyin": "\u4f20\u81f3",
+              "translation": "pass to",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u737b\u5e1d",
+              "simplified": "\u732e\u5e1d",
+              "pinyin": "\u732e\u5e1d",
+              "translation": "(Emperor) XianDi",
+              "annotation": NaN,
+              "character": "Emperor Xian of Han was the 14th and last emperor of the Eastern Han dynasty in China."
+            },
+            {
+              "traditional": "\uff0c",
+              "simplified": "\uff0c",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u9042",
+              "simplified": "\u9042",
+              "pinyin": "\u9042",
+              "translation": "then",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5206",
+              "simplified": "\u5206",
+              "pinyin": "\u5206",
+              "translation": "split",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u70ba",
+              "simplified": "\u4e3a",
+              "pinyin": "\u4e3a",
+              "translation": "to",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u4e09\u570b",
+              "simplified": "\u4e09\u56fd",
+              "pinyin": NaN,
+              "translation": "Three Kingdoms",
+              "annotation": NaN,
+              "character": NaN
+            }
+          ]
+        },
+        {
+          "clause_number": 7,
+          "clause_traditional": "\u63a8\u5176\u81f4\u4e82\u4e4b\u7531\uff0c\u6b86\u59cb\u65bc\u6853\u3001\u9748\u4e8c\u5e1d\u3002",
+          "clause_simplified": "\u53ca\u6853\u5e1d\u5d29\uff0c\u7075\u5e1d\u5373\u4f4d\uff0c\u5927\u5c06\u519b\u7aa6\u6b66\u3001\u592a\u5085\u9648\u8543\uff0c\u5171\u76f8\u8f85\u4f50\u3002",
+          "clause_translation": "The cause for the chaos can be traced to the reign of the two emporers, Huan and Ling",
+          "words": [
+            {
+              "traditional": "\u63a8",
+              "simplified": "\u63a8",
+              "pinyin": "Tu\u012b",
+              "translation": "Push",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5176",
+              "simplified": "\u5176",
+              "pinyin": "q\u00ed",
+              "translation": "its",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u81f4\u4e82",
+              "simplified": "\u81f4\u4e71",
+              "pinyin": "zh\u00ec lu\u00e0n",
+              "translation": "Cause chaos",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u4e4b\u7531",
+              "simplified": "\u4e4b\u7531",
+              "pinyin": "zh\u012b y\u00f3u",
+              "translation": "The reason",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\uff0c",
+              "simplified": "\uff0c",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u6b86\u59cb\u65bc",
+              "simplified": "\u6b86\u59cb\u4e8e",
+              "pinyin": "d\u00e0i sh\u01d0 y\u00fa",
+              "translation": "Almost started with",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u6853\u9748",
+              "simplified": "\u6853\u7075",
+              "pinyin": "hu\u00e1n l\u00edng",
+              "translation": "Huan-Ling",
+              "annotation": "Emperor Huan of Han (Reigned 146-168), Emperor Ling of Han (Reigned 168\u2013189), were the fourth and third last emporers of the Han Dynasty.",
+              "character": NaN
+            },
+            {
+              "traditional": "\u4e8c\u5e1d",
+              "simplified": "\u4e8c\u5e1d",
+              "pinyin": "\u00e8r d\u00ec",
+              "translation": "Two emperors",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u3002",
+              "simplified": NaN,
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            }
+          ]
+        },
+        {
+          "clause_number": 8,
+          "clause_traditional": "\u6853\u5e1d\u7981\u932e\u5584\u985e\uff0c\u5d07\u4fe1\u5ba6\u5b98\u3002",
+          "clause_simplified": NaN,
+          "clause_translation": "Emporer Huan restrained the scholarly noblemen of the court and empowered the court eunuchs.",
+          "words": [
+            {
+              "traditional": "\u6853\u5e1d",
+              "simplified": "\u6853\u5e1d",
+              "pinyin": "Hu\u00e1nd\u00ec",
+              "translation": "Huandi",
+              "annotation": "Emperor Huan (Reigned 146-168), the 11th and fourth last emporers of the Han Dynasty.",
+              "character": NaN
+            },
+            {
+              "traditional": "\u7981\u9522",
+              "simplified": "\u7981\u932e",
+              "pinyin": "j\u00ecng\u00f9",
+              "translation": "restrain",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5584\u7c7b",
+              "simplified": "\u5584\u985e",
+              "pinyin": "sh\u00e0n l\u00e8i",
+              "translation": "kind class (scholarly beaucratic)",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\uff0c",
+              "simplified": "\uff0c",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5d07\u4fe1",
+              "simplified": "\u5d07\u4fe1",
+              "pinyin": "ch\u00f3ng x\u00ecn",
+              "translation": "Chongxin",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5ba6\u5b98",
+              "simplified": "\u5ba6\u5b98",
+              "pinyin": "hu\u00e0ngu\u0101n",
+              "translation": "eunuch",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u3002",
+              "simplified": "\u3002",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            }
+          ]
+        },
+        {
+          "clause_number": 9,
+          "clause_traditional": "\u53ca\u6853\u5e1d\u5d29\uff0c\u9748\u5e1d\u5373\u4f4d\uff0c\u5927\u5c07\u8ecd\u7ac7\u6b66\u3001\u592a\u5085\u9673\u8543\uff0c\u5171\u76f8\u8f14\u4f50",
+          "clause_simplified": "\u4e2d\u6d93\u81ea\u6b64\u6108\u6a6b\u3002",
+          "clause_translation": "When Emporer Ling ascended the throne after Emporer Huan, he was adivsed by Grand Mashal Dou Wu and Grand Tutor Chen Fan.",
+          "words": [
+            {
+              "traditional": "\u53ca",
+              "simplified": "\u53ca",
+              "pinyin": "J\u00ed",
+              "translation": "and",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u6853\u5e1d",
+              "simplified": "\u6853\u5e1d",
+              "pinyin": "hu\u00e1nd\u00ec",
+              "translation": "Huandi",
+              "annotation": "Emperor Huan (Reigned 146-168), the 11th and fourth last emporers of the Han Dynasty.",
+              "character": NaN
+            },
+            {
+              "traditional": "\u5d29\uff0c",
+              "simplified": "\u5d29\uff0c",
+              "pinyin": "b\u0113ng,",
+              "translation": "collapse,",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u9748\u5e1d",
+              "simplified": "\u7075\u5e1d",
+              "pinyin": "l\u00edng d\u00ec",
+              "translation": "Lingdi",
+              "annotation": "Emperor Ling (Reigned 168\u2013189), the 12th and third last emporers of the Han Dynasty.",
+              "character": NaN
+            },
+            {
+              "traditional": "\u5373\u4f4d",
+              "simplified": "\u5373\u4f4d",
+              "pinyin": "j\u00edw\u00e8i",
+              "translation": "ascended the throne",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\uff0c",
+              "simplified": "\uff0c",
+              "pinyin": ",",
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5927",
+              "simplified": "\u5927",
+              "pinyin": "d\u00e0",
+              "translation": "Great",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u5c07\u8ecd",
+              "simplified": "\u5c06\u519b",
+              "pinyin": "ji\u0101ngj\u016bn",
+              "translation": "General",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u7ac7\u6b66",
+              "simplified": "\u7aa6\u6b66",
+              "pinyin": "d\u00f2u w\u01d4",
+              "translation": "Dou Wu",
+              "annotation": "Dou Wu was a Han era politician,  his daughter became empress dowager and regent for Emperor Ling.",
+              "character": NaN
+            },
+            {
+              "traditional": "\u3001",
+              "simplified": "\u3001",
+              "pinyin": ",",
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u592a\u5085",
+              "simplified": "\u592a\u5085 ",
+              "pinyin": "t\u00e0i f\u00f9 ",
+              "translation": "Grand Tutor",
+              "annotation": NaN,
+              "character": NaN
+            },
+            {
+              "traditional": "\u9673\u8543\uff0c",
+              "simplified": "\u9648\u8543\uff0c",
+              "pinyin": "ch\u00e9n f\u0101n,",
+              "translation": "Chen Fan,",
+              "annotation": "Chen Fan was Han era politician, served as Grand Tutor in Emperor Ling's time.",
+              "character": NaN
+            },
+            {
+              "traditional": "\u5171\u76f8\u8f14\u4f50",
+              "simplified": "\u5171\u76f8\u8f85\u4f50",
+              "pinyin": "g\u00f2ng xi\u0101ng f\u01d4zu\u01d2.",
+              "translation": "Complement each other.",
+              "annotation": "together adivsed",
+              "character": NaN
+            },
+            {
+              "traditional": "\u3002",
+              "simplified": "\u3002",
+              "pinyin": NaN,
+              "translation": NaN,
+              "annotation": NaN,
+              "character": NaN
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
