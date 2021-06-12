@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Montserrat&display=swap');
+
+        body, html {
+
+            height: 100%;
+            margin: 0;
+            font-family: sans-serif, "SimSun";
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .bg-image {
+
+
+            /* Add the blur effect */
+            filter: blur(10px);
+            -webkit-filter: blur(10px);
+
+            /* Full height */
+            height: 100%;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        /* Position text in the middle of the page/image */
+        .bg-text {
+            background-color: rgb(265,265,265); /* Fallback color */
+            background-color: rgba(265,265,265, 0.8); /* Black w/opacity/see-through */
+            color: Black;
+            position: absolute;
+            margin-top:2.5%;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 2;
+            width: 90%;
+            height: 77%;
+
+            overflow-x:visible;
+            overflow:auto;
+            padding: 20px;
+            font-family: Montserrat, SimSun, roboto, Tahoma, Helvetica, Arial, serif,   "Microsoft Yahei";
+        }
+        .title-text {
+            color: Black;
+            position: absolute;
+            top: 6%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 2;
+            width: 90%;
+            padding: 20px;
+            font-family:montserrat, roboto, Tahoma, Helvetica, Arial, montserrat, serif,  SimSun, "Microsoft Yahei";
+        }
+        .tooltip {
+            font-size: 160%;
+            position: relative;
+            display: inline-block;
+        }
+
+        .tooltip .tooltiptext {
+            font-size: 100%;
+            visibility: hidden;
+            width: 240px;
+            background-color: black;
+            color: #fff;
+            text-align: left;
+            border-radius: 6px;
+            padding: 5px 0;
+            position: absolute;
+            z-index: 1;
+            bottom: 150%;
+            left: 50%;
+            margin-left: -60px;
+        }
+
+        .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -50px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: black transparent transparent transparent;
+        }
+        .tooltip:hover{
+            background: rgba(206,206,206, 0.8);
+        }
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+        }
+
+        /* width */
+        ::-webkit-scrollbar {
+            width: 2px;
+        }
+
+        /* Track */
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+
+        /* Handle */
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+        }
+
+        /* Handle on hover */
+        ::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+    </style>
+</head>
+<body>
+
+<div class="bg-image"></div>
+<div class="title-text">
+
+    <p> <br/><br/>Chapter 1: 宴桃園豪傑三結義，斬黃巾英雄首立功<br/>
+        Three Heroes Swear Brotherhood In The Peach Garden; One Victory Shatters The Rebels In Battlegrounds</P>
+</div>
+
+<div class="bg-text">
+    <h2>1:1</h2>
+    <div class="tooltip">話說<span class="tooltiptext">話說: it is said</span></div>
+    <div class="tooltip">天下<span class="tooltiptext">天下: under heaven</span></div>
+    <div class="tooltip">大势<span class="tooltiptext">大势: general trend of events</span></div>
+    <div class="tooltip">，</div>
+    <div class="tooltip">分<span class="tooltiptext">分:split</span></div>
+    <div class="tooltip">久<span class="tooltiptext">久: for long</span></div>
+    <div class="tooltip">必<span class="tooltiptext">必: must</span></div>
+    <div class="tooltip">合<span class="tooltiptext">合: unite</span></div>
+    <div class="tooltip">，</div>
+    <div class="tooltip">合<span class="tooltiptext">合: unite</span></div>
+    <div class="tooltip">久<span class="tooltiptext">久: for long</span></div>
+    <div class="tooltip">必<span class="tooltiptext">必: must</span></div>
+    <div class="tooltip">分<span class="tooltiptext">分: divide</span></div>
+    <div class="tooltip">: </div>
+    <br/>Under heaven, it is said that generally, what is long divided, must unite; what is long united, must divide.<br/><br/>
+    <div class="tooltip">周末<span class="tooltiptext">周末: weekend</span></div>
+    <div class="tooltip">七國<span class="tooltiptext">七國: seven kingdoms</span></div>
+    <div class="tooltip">分爭<span class="tooltiptext">分爭: fight</span></div>
+    <div class="tooltip">, </div>
+    <div class="tooltip">并入於<span class="tooltiptext">并入於: enter into/merged into</span></div>
+    <div class="tooltip">秦。<span class="tooltiptext">秦: Qin (Dynasty)</span></div>
+    <br/>Seven warring nations led to the Qin Dynasty.<br/><br/>
+    <div class="tooltip">及<span class="tooltiptext">及: and</span></div>
+    <div class="tooltip">秦<span class="tooltiptext">秦: Qin (Dynasty)</span></div>
+    <div class="tooltip">滅<span class="tooltiptext">滅: extinguished</span></div>
+    <div class="tooltip">之後<span class="tooltiptext">之後: afterwards</span></div>
+    <div class="tooltip">, </div>
+    <div class="tooltip">楚<span class="tooltiptext">楚: Chu (Xiang Yu's Western Chu during the Chu–Han Contention (206–202 BC))</span></div>
+    <div class="tooltip">漢<span class="tooltiptext">漢: Han (Faction lef by Liu Bang during the Chu–Han Contention (206–202 BC))</span></div>
+    <div class="tooltip">分爭<span class="tooltiptext">分爭: fight</span></div>
+    <div class="tooltip">, </div>
+    <div class="tooltip">又<span class="tooltiptext">又: Again</span></div>
+    <div class="tooltip">并入於<span class="tooltiptext">并入於: enter into/merged into</span></div>
+    <div class="tooltip">漢。<span class="tooltiptext">漢: Han (Dynasty)</span></div>
+    <br/>After Qin was extinguished, Chu fought Han, leading to the Han Dynasty.<br/><br/>
+    <div class="tooltip">漢朝<span class="tooltiptext">漢朝: Han Dynasty</span></div>
+    <div class="tooltip">自<span class="tooltiptext">自: from</span></div>
+    <div class="tooltip">高祖<span class="tooltiptext">高祖: ancestors</span></div>
+    <div class="tooltip">斬<span class="tooltiptext">斬: cut</span></div>
+    <div class="tooltip">白蛇<span class="tooltiptext">白蛇: white serpent</span></div>
+    <div class="tooltip">而<span class="tooltiptext">而: and therefore</span></div>
+    <div class="tooltip">起義<span class="tooltiptext">起義: rise up</span></div>
+    <div class="tooltip">, </div>
+    <div class="tooltip">一統<span class="tooltiptext">一統: unite</span></div>
+    <div class="tooltip">天下。<span class="tooltiptext">天下: under heaven (the world)</span></div>
+    <br/>Liu's ancestor killed a white serpent, leading to Han Dynasty's ascension, uniting the world.<br/><br/>
+    <div class="tooltip">後來<span class="tooltiptext">後來: After</span></div>
+    <div class="tooltip">光武中興<span class="tooltiptext">光武中興: (refers to a period of recovery and prosperity under Emporer GuangWu)</span></div>
+    <div class="tooltip"><span class="tooltiptext">中興: </span></div>
+    <div class="tooltip">傳至<span class="tooltiptext">傳至: Pass to</span></div>
+    <div class="tooltip">獻帝<span class="tooltiptext">獻帝: Emporer</span></div>
+    <div class="tooltip">遂<span class="tooltiptext">遂: then</span></div>
+    <div class="tooltip">分為<span class="tooltiptext">分為: split to</span></div>
+    <div class="tooltip">三國。<span class="tooltiptext">三國: Three Kingdoms</span></div>
+    <br/> After emperor GuangWu's restoration of Han after the interregnum, the throne was passed for generations before splitting into three kingdoms<br/><br/>
+
+    <div class="tooltip">推其致亂之由，殆始於桓、靈二帝。</div>
+    <br/> <br/><br/>
+
+    <div class="tooltip">桓帝禁錮善類，崇信宦官。</div>
+    <br/> <br/><br/>
+
+    <div class="tooltip">及桓帝崩，靈帝即位，大將軍竇武、太傅陳蕃，共相輔佐</div>
+    <br/> <br/><br/>
+
+    <div class="tooltip">時有宦官曹節等弄權，竇武、陳蕃謀誅之，作事不密，反為所害。</div>
+    <br/> <br/><br/>
+
+    <div class="tooltip">中涓自此愈橫。</div>
+    <br/> <br/><br/>
+    <h2>1:2</h2>
+</div>
+</body>
+</html>
